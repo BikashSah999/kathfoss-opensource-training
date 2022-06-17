@@ -13,4 +13,4 @@ Open Source Guides (https://opensource.guide/) are a collection of resources for
     - PR description must contain Test Plan
     - If the PR is in progress then please add the label 'code/in porgress'. If it is in ready for review state then please add the label 'cod/ready for review'
 
-5) Please comment down on the issue if you have any blockers
+5) Please comment down on the issue if you have any blockers.
