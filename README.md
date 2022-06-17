@@ -8,9 +8,9 @@ Open Source Guides (https://opensource.guide/) are a collection of resources for
 
 3) Branch name should be the issue number
 
-4) Creating your PR
-    a) PR description must contain problem described in the issue
-    b) PR description must contain Test Plan
-    c) If the PR is in progress then please add the label 'code/in progress'. If it is in ready for review state then please add the label 'code/ready for review'
+4) Creating your PR:
+    - PR description must contain problem described in the issue
+    - PR description must contain Test Plan
+    - If the PR is in progress then please add the label 'code/in progress'. If it is in ready for review state then please add the label 'code/ready for review'
 
 5) Please comment down on the issue if you have any blockers
